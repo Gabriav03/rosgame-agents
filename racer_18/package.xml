@@ -4,7 +4,7 @@
   <name>racer_18</name>
   <version>0.0.0</version>
   <description>Hybrid navigation node for the Racer</description>
-  <maintainer email="cga@uma.es">orestes</maintainer>
+  <maintainer email="ardilavidal03@gmail.com">Gabri</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
