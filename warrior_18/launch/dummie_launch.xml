@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="rosgame_bridge" exec="bridge" name="game_manager"/>
+  <node pkg="warrior_18" exec="dummie" name="dummie"/>
+</launch>
